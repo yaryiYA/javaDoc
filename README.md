@@ -97,3 +97,20 @@ Oracle говорит, что есть три сценария, где комм�
 @see package.Class#method(Type, Type,...)
 @see package.Class#method(Type id, Type, id)
 ```
+---
+## Ссылки
+Создавать ссылки на другие классы и методы можно используя тэг {@link}.
+
+```java
+/**
+* First paragraph.
+* <p>
+* Link to a class named 'Foo': {@link Foo}.
+* Link to a method 'bar' on a class named 'Foo': {@link Foo#bar}.
+* Link to a method 'baz' on this class: {@link #baz}.
+* Link specifying text of the hyperlink after a space: {@link Foo the Foo class}.
+* Link to a method handling method overload {@link Foo#bar(String,int)}.
+*/
+public ...
+```
+
