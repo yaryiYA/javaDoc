@@ -152,4 +152,5 @@ public ...
 
 ---
 ## Дополнительная информация о Javadoc
- [JavaDoc-Oracle]([https://blog.joda.org/2012/11/javadoc-coding-standards.html](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html))
+    
+    [JavaDoc-Oracle](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
