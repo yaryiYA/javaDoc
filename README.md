@@ -151,7 +151,5 @@ public ...
 Для ссылки на другой метод в том же классе используется формат: {@link #baz}. Чтобы связать метод с другим классом, используется формат: {@link Foo # baz}. Тем не менее, не надо мудрить с гиперссылкой. При обращении к другим классам можно использовать тэги <code>.
 
 ---
-    
-    
- #    
-
+## Дополнительная информация о Javadoc
+ [JavaDoc-Oracle]([https://blog.joda.org/2012/11/javadoc-coding-standards.html](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html))
