@@ -29,3 +29,15 @@ javadoc — это генератор документации в HTML-форм�
 |{@link reference}               | Класс, интерфейс, поле, метод |Ссылка                                                   |
 | {@value}                       | Статичное поле                |Описание значения переменной                             |
 ---
+## Порядок тегов
+Oracle определил  следующий порядок:
+* @author (classes and interfaces)
+* @version (classes and interfaces)
+* @param (methods and constructors)
+* @return (methods)
+* @throws (@exception is an older synonym)
+* @see
+* @since
+* @serial
+* @deprecated
+
